@@ -1,0 +1,13 @@
+data/raw/
+
+data/processed/
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+.env
+
+.vscode/
+.idea/
